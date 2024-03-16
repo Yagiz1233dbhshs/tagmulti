@@ -3,23 +3,23 @@
   "description": "A simple mention all for telegram.",
   "env": {
       "TOKEN": {
-         "description": "Botunuzun tokenini bura yazın",
+         "description": "7164892651:AAHHrbpOdNpqugw5q5vFjK_C0znnfk4Q9lw",
          "value": ""
       },
       "OWNER_ID": {
-         "description": "my.telegram.org adresindən APP ID alın.",
+         "description": "6786458787",
          "value": ""
       },
       "APP_ID": {
-         "description": "my.telegram.org adresindən APP ID alın.",
+         "description": "18049084",
          "value": ""
       },
       "API_HASH": {
-         "description": "my.telegram.org adresindən API HASH alın",
+         "description": "7e74b1e22026fcc291d32b3d431aa21e",
          "value": ""
       },
       "BOT_ID": {
-         "description": "my.telegram.org adresindən API HASH alın",
+         "description": "7164892651",
          "value": ""
       }
   },
